@@ -21,6 +21,6 @@ With a strong foundation in software engineering and a deep passion for cybersec
 
 ### 🌐 **Let's Connect:**
 - **Portfolio/Blog:** Under maintenance
-- **Twitter:** [Your Twitter Handle]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Contact Email]
+- **Twitter:** @SunnyDaye
+- **LinkedIn:** [sunny-daye]([sunny-daye](https://www.linkedin.com/in/sunny-daye/))
+- **Email:** sunceried@outlook.com
